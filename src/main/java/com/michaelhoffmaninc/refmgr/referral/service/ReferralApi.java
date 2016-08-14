@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author Michael Hoffman
  *
  */
-@RestController("/api/referrals")
+@RestController("/referrals")
 public class ReferralApi {
 
    /**
